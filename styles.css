@@ -1,0 +1,236 @@
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+p {
+  line-height: 2;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+  color: #66BFBF;
+  margin: 50px auto 0;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a{
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+a:hover {
+  text-decoration: none;
+  color: grey;
+
+}
+
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 6px;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.header{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: auto;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+.pro {
+  text-decoration: underline;
+}
+
+.profile-photo {
+  height:15%;
+  width: 15%;
+  border-radius: 50%;
+  border-style: solid;
+  border-width: 0.03rem;
+  background-color: red;
+}
+.head-bar{
+  text-align: left;
+  background-color: #66BFBF;
+  padding:15px 0 25px;
+  margin: 0;
+}
+
+.headbar-img{
+  position: relative;
+  bottom: 10px;
+  float: left;
+  width: 5%;
+  margin-right: 15px;
+}
+
+.header{
+
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 15px 20px;
+  text-decoration: none;
+  font-size: 1.2rem
+}
+
+.top-container {
+  background-color: #e0ece4;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  padding: 40px 0 20px;
+  text-align: center;
+  background-color: #66BFBF;
+}
+
+.allround-skill-image {
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.python-image {
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
+.web-image{
+  position: relative;
+  bottom: 20px;
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+.university-image{
+  position: relative;
+  bottom: 20px;
+  float:left;
+  width: 25%;
+  margin-right: 30px;
+}
+.school-image-secondary{
+  position: relative;
+  bottom: 35px;
+  float:right;
+  width: 25%;
+  margin-left: 30px;
+}
+.school-image-primary{
+  position: relative;
+  bottom: 30px;
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 150px auto;
+  text-align: left;
+}
+.education-row{
+  width: 50%;
+  margin: 150px auto 200px;
+  text-align: left;
+}
+
+.about-info {
+  margin: auto;
+  width: 30%;
+}
+
+.programmer {
+  font-weight: normal;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.footer-link{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+.footer-link:hover {
+  color: #EAF6F6;
+  font-size: 1rem;
+}
+
+.copyright {
+  color:#eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+  font-size: 20px;
+}
